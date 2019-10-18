@@ -31,7 +31,7 @@
 ### Error 404:
 [Html page 404](http://arep-serverproyect.herokuapp.com/reflection/Pokemon/attack/7.reflection)
 ## Deployment
-- Application was deployed in heroku link : http://arep-serverproyect.herokuapp.com
+- Application was deployed in heroku link : http://arep-serverproyect.herokuapp.com/arep.html
 
 ## Offline
 - To do the offline tests, you can clone the repository with the following command:
