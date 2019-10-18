@@ -11,9 +11,10 @@
 
 ## Demostraciones del experimento
 - Creacion de la instancia en EC2
-[Consola EC2](https://github.com/Martin9958/AREP04/blob/master/imagenes/Captura%20de%20pantalla%20de%202019-10-16%2022-14-58.png)
 
-[Consola EC2](https://github.com/Martin9958/AREP04/blob/master/imagenes/Captura%20de%20pantalla%20de%202019-10-17%2022-00-28.png)
+![Consola EC2](https://github.com/Martin9958/AREP04/blob/master/imagenes/Captura%20de%20pantalla%20de%202019-10-16%2022-14-58.png)
+
+![Consola EC2](https://github.com/Martin9958/AREP04/blob/master/imagenes/Captura%20de%20pantalla%20de%202019-10-17%2022-00-28.png)
 
 
 ## Despliegue
