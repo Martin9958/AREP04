@@ -15,12 +15,6 @@
 ## Despliegue
 - Esta aplicacion fue desplegada en Heroku : http://arep-serverproyect.herokuapp.com/arep.html
 
-## Offline
-- Para hacer los test de la parte de AREP-Proyecto es necesario ejecutar el siguiente comando:
-
-`$ git clone https://github.com/Martin9958/PROYECTO-AREP.git`
-- Cuando el proyecto ya ha sido descargado, puedes correr el servidor de la manera que desees.
-
 ## Prerequisitos
 - Java 1.8
 - Apache Maven 3.6.0
