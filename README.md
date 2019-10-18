@@ -16,6 +16,33 @@
 
 ![Consola EC2](https://github.com/Martin9958/AREP04/blob/master/imagenes/Captura%20de%20pantalla%20de%202019-10-17%2022-00-28.png)
 
+![Consola EC2](https://github.com/Martin9958/AREP04/blob/master/imagenes/Captura%20de%20pantalla%20de%202019-10-17%2022-07-09.png)
+
+- Creacion del Cliente que se conecta de AWS a Heroku
+
+![Cliente](https://github.com/Martin9958/AREP04/blob/master/imagenes/Screen%20Shot%202019-10-18%20at%201.33.57%20PM.png)
+
+- Adicion del .jar por medio de sftp
+
+![Cliente](https://github.com/Martin9958/AREP04/blob/master/imagenes/Screen%20Shot%202019-10-18%20at%202.17.34%20PM.png)
+
+- Prueba con Google
+ 
+![Cliente](https://github.com/Martin9958/AREP04/blob/master/imagenes/Screen%20Shot%202019-10-18%20at%202.19.34%20PM.png)
+ 
+![Cliente](https://github.com/Martin9958/AREP04/blob/master/imagenes/Screen%20Shot%202019-10-18%20at%202.19.50%20PM.png)
+
+- Prueba con Heroku
+ 
+![Cliente](https://github.com/Martin9958/AREP04/blob/master/imagenes/Screen%20Shot%202019-10-18%20at%202.32.14%20PM.png)
+
+![Cliente](https://github.com/Martin9958/AREP04/blob/master/imagenes/Screen%20Shot%202019-10-18%20at%202.33.00%20PM.png)
+
+- Eliminacion de las instancias
+
+![Instancias](https://github.com/Martin9958/AREP04/blob/master/imagenes/Screen%20Shot%202019-10-18%20at%202.35.42%20PM.png)
+
+![Instancias](https://github.com/Martin9958/AREP04/blob/master/imagenes/Screen%20Shot%202019-10-18%20at%202.37.01%20PM.png)
 
 ## Despliegue
 - Esta aplicacion fue desplegada en Heroku : http://arep-serverproyect.herokuapp.com/arep.html
